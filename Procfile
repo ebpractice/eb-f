@@ -1,1 +1,1 @@
-web: appstart
+web: npm install express && npm start
